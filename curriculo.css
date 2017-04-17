@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    width: 940px;
+    margin-right: auto;
+    margin-left: auto;
+}
+h2 {
+    background-color: #5599DD;
+    color: #DDD;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+.exp {
+    text-indent: 50px;
+}
+#email {
+    text-decoration:none;
+    font-style: italic;
+}
+#cabecalho {
+    text-align: center;
+}
